@@ -34,7 +34,7 @@ main {
 
 .text-mensaje {
     background-color: white;
-    background-image: url("/img/Muñeco.png");
+    background-image: url("img/Muñeco.png");
     background-position: center; 
     background-repeat: no-repeat;
     border: none;
