@@ -207,7 +207,7 @@ main {
 
     .text-mensaje {
         margin-left: 0; /* Alinear el área de mensaje a la izquierda */
-        width: 40%; /* Reducir el ancho del área de mensaje */
+        width: 30%; /* Reducir el ancho del área de mensaje */
         height: 580px; /* Ajustar la altura del área de mensaje */
         margin-top: 20px; /* Agregar un margen superior */
     }
@@ -218,7 +218,7 @@ main {
     }
 
     .btn-copiar {
-        margin-left: 220px; /* Mover el botón copiar al lado derecho */
+        margin-left: 150px; /* Mover el botón copiar al lado derecho */
         margin-top: 550px; /* Ajustar el margen superior del botón copiar */
     }
 }
