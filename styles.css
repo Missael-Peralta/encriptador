@@ -201,24 +201,24 @@ main {
     }
 
     .text-area {
-        width: 40%; /* Reducir el ancho del área de texto */
+        width: 50%; /* Reducir el ancho del área de texto */
         font-size: 24px; /* Reducir el tamaño de la fuente si es necesario */
     }
 
     .text-mensaje {
         margin-left: 0; /* Alinear el área de mensaje a la izquierda */
         width: 40%; /* Reducir el ancho del área de mensaje */
-        height: 550px; /* Ajustar la altura del área de mensaje */
+        height: 600px; /* Ajustar la altura del área de mensaje */
         margin-top: 20px; /* Agregar un margen superior */
     }
 
     .botones {
         margin-top: 20px; /* Ajustar el margen superior de los botones */
-        margin-right: 20px;
+        margin-right: 40px;
     }
 
     .btn-copiar {
-        margin-left: 200px; /* Mover el botón copiar al lado derecho */
-        margin-top: 470px; /* Ajustar el margen superior del botón copiar */
+        margin-left: 220px; /* Mover el botón copiar al lado derecho */
+        margin-top: 550px; /* Ajustar el margen superior del botón copiar */
     }
 }
