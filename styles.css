@@ -208,7 +208,7 @@ main {
     .text-mensaje {
         margin-left: 0; /* Alinear el área de mensaje a la izquierda */
         width: 40%; /* Reducir el ancho del área de mensaje */
-        height: 600px; /* Ajustar la altura del área de mensaje */
+        height: 580px; /* Ajustar la altura del área de mensaje */
         margin-top: 20px; /* Agregar un margen superior */
     }
 
